@@ -6,9 +6,8 @@ Lenguaje: **Python 3.9+** (solo librería estándar, sin dependencias). Arquitec
 ## Cómo ejecutar
 
 ```bash
-git clone https://github.com/<tu-usuario>/taller-supletorio-arquitectura-tunombre.git
-cd taller-supletorio-arquitectura-tunombre
-
+git clone https://github.com/jamersonbarraganma-droid/taller-supletorio-arquitectura-jamerson.git
+cd taller-supletorio-arquitectura-jamerson
 python main.py                                  # menú interactivo en consola
 python main.py --demo                           # recorrido automático (préstamos, errores, multas)
 python main.py --informe-ia                     # imprime informe_uso_ia()
