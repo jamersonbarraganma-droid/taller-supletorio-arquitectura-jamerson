@@ -182,7 +182,7 @@ Descarté **MVC** porque está pensado alrededor de una interfaz de usuario (el 
 
 ## Sustentación
 
-Video (5 a 10 minutos): _pega aquí el enlace_
+Video (5 a 10 minutos): https://drive.google.com/file/d/1KQy-Ws75EZdW95C-oDsk8VzlA4tyJ1E5/view?usp=sharing
 
 ## Uso de herramientas
 

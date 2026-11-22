@@ -1,25 +1,25 @@
 # Informe de uso de IA · Caso A · Jamerson Barragán Manios
 
-Herramienta(s) y versión: Claude Sonnet 5.5 (Anthropic), en la interfaz de chat de claude.ai
+Herramienta y versión: Claude Sonnet 5.5 (Anthropic), en la interfaz de chat de claude.ai
 ¿Usé IA? Sí
-
-> ⚠️ Revisa y ajusta todo lo que sigue. Los porcentajes y las partes marcadas con **[COMPLETA]** deben reflejar lo que realmente hiciste tú. Tú eres responsable de que este informe sea veraz.
 
 | Parte | Qué hizo la IA | Qué hice yo | % aprox. de la IA |
 |---|---|---|---|
-| Parte 1 · Principios | Analizó `prestamos.js`, identificó los problemas, ubicó las líneas y redactó la tabla | **[COMPLETA]** p. ej.: verificar cada línea contra el original, reescribir las explicaciones con mis palabras | 90 % (ajusta) |
-| Parte 2 · Patrones de diseño | Propuso e implementó Strategy y Observer, las extensiones (egresado y auditoría) y su documentación | **[COMPLETA]** | 90 % (ajusta) |
-| Parte 3 · Patrón arquitectónico | Diseñó la estructura Hexagonal, escribió casos de uso, puertos, adaptadores, composición, pruebas y el diagrama Mermaid | **[COMPLETA]** p. ej.: ejecutar el proyecto, correr las pruebas, recorrer el código | 90 % (ajusta) |
-| README y diagrama | Redactó el README completo | **[COMPLETA]** | 90 % (ajusta) |
+| Parte 1 · Principios | Analizó prestamos.js, identificó los problemas, ubicó las líneas y redactó la tabla | Pedí la ayuda y usé el análisis en mi explicación del video | 90 % |
+| Parte 2 · Patrones de diseño | Propuso e implementó Strategy y Observer, las extensiones (egresado y auditoría) y su documentación | Elegí Python, ejecuté el programa y lo mostré en el video | 90 % |
+| Parte 3 · Arquitectura | Diseñó la estructura Hexagonal, escribió el código, las pruebas y el diagrama Mermaid | Creé el repositorio, hice los commits y resolví los errores de git | 90 % |
+| README y diagrama | Redactó el README | Agregué el enlace del video y revisé el diagrama en GitHub | 90 % |
 
-Porcentaje global estimado de la IA: **90 %** (ajusta). Cómo lo calculé: estimación por partes de lo que la IA generó antes de que yo lo modificara; **[COMPLETA con cómo lo recalculaste]**.
+Porcentaje global estimado de la IA: 90 %. Cómo lo calculé: la IA generó casi todo el código, las pruebas y los textos; mi trabajo fue dirigir, ejecutar, subir el proyecto a GitHub, grabar el video y sustentarlo.
 
 Prompts clave:
 1. «puedes ver la informacion de alguna pagina si te mando el link?»
 2. Envié el enlace del taller y escribí «tengo que hacer este caso de trabajo».
-3. «ayudame en todo jajajja, hagamoslo en python que los demas no conozco»
-4. **[COMPLETA: otros prompts que hayas usado]**
+3. «como subo el proyecto git» y «como subo la correccion de una caparpeta duplicada al git»
 
-Qué corregí o rechacé de lo que propuso la IA: **[COMPLETA]**
+Qué corregí o rechacé de lo que propuso la IA: Pregunté por el patrón Singleton y la IA me aclaró que el proyecto no lo usa (los patrones son Strategy y Observer), así que no lo incluí en la explicación. También resolví con la IA el error de la carpeta duplicada en git. 
 
-Qué puedo explicar sin ayuda: **[COMPLETA, y asegúrate de que sea cierto antes de grabar el video]**
+Qué puedo explicar sin ayuda: strategy,observer, lo de la arquitectura hexagonal mas o menos
+
+
+
